@@ -4,7 +4,13 @@ import Footer from '../../common/Footer';
 
 const Programes = () => {
   return (
-    <div>Programes</div>
+    <>
+      <div>
+        programes
+      </div>
+
+    </>
+    
   )
 }
 

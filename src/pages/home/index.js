@@ -10,12 +10,7 @@ const Home = () => {
   return (
 
     <div>
-    <Navbar/>
-    <Hero/>
-    <Intro/>
-    <Roadmap/>
-    <SocialMedia/>
-    <Footer/>
+    asfdgfcgvb
     </div>
 
   )

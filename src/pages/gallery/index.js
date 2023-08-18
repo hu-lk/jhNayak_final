@@ -5,9 +5,9 @@ import Footer from '../../common/Footer';
 const Gallery = () => {
   return (
     <div> 
-    <Navbar/>
+
     Gallery
-    <Footer/>
+
     </div>
   )
 }

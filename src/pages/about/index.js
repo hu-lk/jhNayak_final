@@ -5,9 +5,9 @@ import Footer from '../../common/Footer';
 const About = () => {
   return (
     <div>
-        <Navbar/>
+
         About
-        <Footer/>
+
     </div>
   )
 }

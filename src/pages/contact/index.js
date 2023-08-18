@@ -5,9 +5,9 @@ import Footer from '../../common/Footer';
 const Contact = () => {
   return (
     <div>
-     <Navbar/>
+
      Contact
-        <Footer/>
+
     </div>
   )
 }
